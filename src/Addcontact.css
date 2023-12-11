@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+}
+.input{
+    width: 180px;
+    height: 20px;
+}
+.name{
+    font-weight: bold;
+}
+.btn{
+    height: 25px;
+    border-radius: 5px;
+    background-color: rgb(18, 222, 191);
+    margin-top: 15px;
+    border: 1px solid rgb(9, 245, 60);
+    cursor: pointer;
+}
+.btn1{
+    padding-left: 25px;
+}
